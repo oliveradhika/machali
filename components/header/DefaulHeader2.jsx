@@ -31,7 +31,8 @@ const DefaulHeader2 = () => {
           <div className="logo-box">
             <div className="logo">
               <Link href="/">
-                <img src="/images/logo.svg" alt="brand" />
+                {/* <img src="/images/logo.svg" alt="brand" /> */}
+                <img src="https://purplease.com/img/purplease-inverted-color-800x600.png" alt="brand" />
               </Link>
             </div>
           </div>
